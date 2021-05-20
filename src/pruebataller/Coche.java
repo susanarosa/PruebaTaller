@@ -13,7 +13,7 @@ public class Coche {
     private Puerta puertaI;
     private Puerta puertaD;
     
-    // Constructor
+    // Constructor por defecto
     public Coche() {
         this.motor = new Motor();
         this.ruedaDI = new Rueda();
